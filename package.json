@@ -1,0 +1,21 @@
+{
+  "name": "myetrade",
+  "version": "1.0.0",
+  "description": "perform trades online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Zuidema",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "mysql": "^2.10.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
